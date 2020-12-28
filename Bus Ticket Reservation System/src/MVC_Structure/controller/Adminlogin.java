@@ -1,4 +1,6 @@
-package MVC_Structure.model;
+package MVC_Structure.controller;
+
+
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
@@ -9,6 +11,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+import MVC_Structure.model.ConnectionClass;
 //import connectivity.ConnectionClass;
 
 import java.io.IOException;

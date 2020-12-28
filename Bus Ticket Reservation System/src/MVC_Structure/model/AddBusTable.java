@@ -12,6 +12,10 @@ public class AddBusTable {
     private Integer seat1;;
     private  final String date1;
 
+    public AddBusTable(String ena, String dhaka, String cox, String string, int i) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 
     public String getService1() {
         return service1;

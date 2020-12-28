@@ -15,6 +15,12 @@ public class AddBus {
     private  final SimpleStringProperty totalseat;
     private  final SimpleStringProperty date;
 
+    public AddBus(SimpleStringProperty service) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+  
+
     public String getService() {
         return service.get();
     }

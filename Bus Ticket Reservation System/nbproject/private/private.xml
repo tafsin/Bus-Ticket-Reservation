@@ -3,29 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/test/ServiceTest.java</file>
             <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/Service.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/AddBus.fxml</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/AddBusTable.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/ViewBookings.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/AdminController.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/ConnectionClass.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/admin.fxml</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/Adminlogin.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/PaymentController.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/sample.fxml</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/Seat.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/BookingsController.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/signup.fxml</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/payment.fxml</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/book.fxml</file>
             <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/Main.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/Controller.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/SignupController.java</file>
+            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/test/AddBusTableTest.java</file>
+            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/AdminController.java</file>
             <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/AddBusController.java</file>
             <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/adminlogin.fxml</file>
             <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/model/AddBus.java</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/view/ViewBookings.fxml</file>
-            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/BusController.java</file>
+            <file>file:/F:/Fall2020/Bus%20Ticket%20Reservation%20System/src/MVC_Structure/controller/Adminlogin.java</file>
         </group>
     </open-files>
 </project-private>
